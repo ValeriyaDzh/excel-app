@@ -1,0 +1,5 @@
+test.py
+*.xlsx
+venv
+providers_file
+.DS_Store
