@@ -3,4 +3,5 @@ test.py
 venv
 providers_file
 .DS_Store
+.env
 __pycache__
